@@ -9,7 +9,7 @@ mod ffi {
     extern "Rust" {
         type Environment;
         fn new_environment() -> Box<Environment>;
-        fn print_acc(&self)->f64;
+        fn print_secret_weight(&self)->f64;
         fn weighted_sum_vector(&self, vec: &CxxVector<f64>)->f64;
     }
 
@@ -25,7 +25,7 @@ struct Environment {
 }
 
 impl Environment {
-    fn print_acc(&self) -> f64 {
+    fn print_secret_weight(&self) -> f64 {
         self.weight
     }
 

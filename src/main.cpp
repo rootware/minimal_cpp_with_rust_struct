@@ -9,7 +9,7 @@ using namespace std;
 int main(){
 
     auto env = new_environment();
-    std::cout <<env->print_acc()<<endl;
+    std::cout <<env->print_secret_weight()<<endl;
     std::vector<double> vec{2.0, 4.0};
     std::cout <<env->weighted_sum_vector(vec)<<endl;
 

@@ -1,3 +1,0 @@
-/home/labuser/RustProjects/rust_environment/build/CMakeFiles/rust_environment.dir
-/home/labuser/RustProjects/rust_environment/build/CMakeFiles/edit_cache.dir
-/home/labuser/RustProjects/rust_environment/build/CMakeFiles/rebuild_cache.dir
