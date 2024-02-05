@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/rust_environment.dir/src/main.cpp.o CMakeFiles/rust_environment.dir/target/cxxbridge/environment/src/lib.rs.cc.o -o rust_environment  /home/labuser/RustProjects/rust_environment/target/debug/libenvironment.a 
